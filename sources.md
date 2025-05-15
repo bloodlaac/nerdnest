@@ -1,6 +1,7 @@
 # Books
 ## Languages
 - https://doc.rust-lang.ru/book/title-page.html - Rust Docs
+- https://github.com/rust-lang/rustlings - Rust exercises
 
 ## ML
 - https://education.yandex.ru/handbook/ml/
@@ -31,6 +32,9 @@
 
 ## Maybe Handy Github
 - https://github.com/Radeon590/qr_project
+- https://github.com/sindresorhus/awesome
+- https://github.com/practical-tutorials/project-based-learning
+- https://github.com/codecrafters-io/build-your-own-x
 
 ## Tools
 - https://toolfolio.io/
