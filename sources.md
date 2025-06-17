@@ -33,6 +33,9 @@
 - https://chat.qwenlm.ai/ - Qwen2.5-1M
 - https://pro.geospy.ai/ - find geo by your home photo
 - https://www.alphaxiv.org/explore - scientific research to conspect
+- https://dxgpt.app/ - analysing symptoms and giving diagnosis
+- https://www.suna.so/ - composing reports on tasks
+- https://docs.google.com/spreadsheets/d/10T6g25pw4CD02yppd3O1SWIJZ4MljPNL/edit?usp=sharing&ouid=116363855497626603581&rtpof=true&sd=true - neuronets for images
 
 ## Maybe Handy Github
 - https://github.com/Radeon590/qr_project
@@ -45,8 +48,17 @@
 - https://www.oldmapsonline.org/en/history/people#position=5.9288/56.75/63.28&year=1575 - interactive map with history
 - http://mermaid.js.org/#/ - create diagrams and visualizations using text and code (for Obsidian also)
 - https://yeahub.ru/questions - lib with questions for interview
+- http://lockedinai.com/ - online answers on interview
 - https://overapi.com/javascript - cheatsheets on languages and tecknologies
+- https://quickref.me/index.html - cheatsheets on coding, neuronets, design
 - https://laratranslate.com/ - translator
+- https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2-1 - guides on folding paper planes
+- http://labs.google/lll - learning languages (access through https://labs.google/)
+- https://www.gitfriend.xyz/ai-chat - for Github
+- https://ru.overleaf.com/ - LaTeX editor
+- https://soarxiv.org - arxiv visualization
+- http://flourish.studio/ - data visualization
+- https://learngitbranching.js.org/?locale=ru_RU - learn git branching
 
 ## Algorithms
 - https://the-algorithms.com/ru
@@ -61,6 +73,7 @@
 ## Code
 - https://www.cursor.com/
 - https://blog.skillfactory.ru/gde-praktikovatsya-nachinayushhemu-razrabotchiku/?ysclid=m1vn45lgxc399163349
+- https://www.codedex.io/
 
 ## Presentations
 - https://prezo.ai/
@@ -76,5 +89,16 @@
 - https://pll.harvard.edu/course/cs50s-understanding-technology
 - https://pll.harvard.edu/course/cs50-introduction-computer-science
 - https://pll.harvard.edu/course/cs50s-introduction-game-development
+
+## Hugging Face Cources
+- https://huggingface.co/learn/llm-course/chapter1/1 - LLM
+- https://huggingface.co/learn/agents-course/unit0/introduction - AI agents
+- https://huggingface.co/learn/deep-rl-course/unit0/introduction - Deep RL
+- https://huggingface.co/learn/vision-course/unit0/introduction - computer vision
+- https://huggingface.co/learn/audio-course/chapter0/introduction - audio
+- https://huggingface.co/learn/ml-games-course/unit0/introduction - gamedev
+- https://huggingface.co/learn/ml-for-3d-course/unit0/introduction - for 3D
+- https://huggingface.co/learn/diffusion-course/unit0/1 - diffusion models
+- https://huggingface.co/learn/cookbook/index - Open-Source AI Cookbook
 
 
