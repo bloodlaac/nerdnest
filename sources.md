@@ -36,6 +36,8 @@
 - https://dxgpt.app/ - analysing symptoms and giving diagnosis
 - https://www.suna.so/ - composing reports on tasks
 - https://docs.google.com/spreadsheets/d/10T6g25pw4CD02yppd3O1SWIJZ4MljPNL/edit?usp=sharing&ouid=116363855497626603581&rtpof=true&sd=true - neuronets for images
+- https://www.ideabrowser.com/idea-of-the-day - business ideas
+- https://elevenlabs.io/v3 - voice acting
 
 ## Maybe Handy Github
 - https://github.com/Radeon590/qr_project
@@ -51,6 +53,7 @@
 - http://lockedinai.com/ - online answers on interview
 - https://overapi.com/javascript - cheatsheets on languages and tecknologies
 - https://quickref.me/index.html - cheatsheets on coding, neuronets, design
+- https://cheatography.com/ - beautiful cheatsheets
 - https://laratranslate.com/ - translator
 - https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2-1 - guides on folding paper planes
 - http://labs.google/lll - learning languages (access through https://labs.google/)
@@ -80,6 +83,7 @@
 
 ## Films
 - https://pickamovieforme.com/
+- https://retroflix.org/ - list of retro films
 
 # Courses
 ## Garvard Courses
