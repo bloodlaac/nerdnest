@@ -1,10 +1,14 @@
 # Books
 ## Languages
 - https://doc.rust-lang.ru/book/title-page.html - Rust Docs
+- https://goalkicker.com/ - languages and technologies
 
 ## ML
 - https://education.yandex.ru/handbook/ml/
 - https://www.deep-ml.com/ - сборник вопросов
+
+## Useful
+- https://booktun.ing/ - reading playlists
 
 # Other
 ## Neuronets
