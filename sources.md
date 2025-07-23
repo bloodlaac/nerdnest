@@ -81,6 +81,7 @@
 - https://www.cursor.com/
 - https://blog.skillfactory.ru/gde-praktikovatsya-nachinayushhemu-razrabotchiku/?ysclid=m1vn45lgxc399163349
 - https://www.codedex.io/
+- https://www.researchgate.net/figure/An-example-of-a-code-review-checklist-submitted-by-students_fig2_348486736 - Pyhton code review checklist
 
 ## Presentations
 - https://prezo.ai/
@@ -109,4 +110,5 @@
 - https://huggingface.co/learn/diffusion-course/unit0/1 - diffusion models
 - https://huggingface.co/learn/cookbook/index - Open-Source AI Cookbook
 
-
+# Guides
+- https://docs.dobry-kot.ru/blog/kubernetes-the-hard-way/ - Kubernetes guide
