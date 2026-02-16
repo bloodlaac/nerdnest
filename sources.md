@@ -47,6 +47,9 @@
 - https://github.com/Radeon590/qr_project
 - https://github.com/camel-ai/owl?tab=readme-ov-file#starting-the-web-ui - AI-agent
 
+## Basic Tools
+- https://curl.se/docs/manpage.html - curl docs
+
 ## Tools
 - https://toolfolio.io/
 - https://useconsensus.io/ - search for answer in subreddits and comments
