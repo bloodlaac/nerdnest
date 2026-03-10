@@ -52,6 +52,7 @@
 
 ## Tools
 - https://toolfolio.io/
+- https://regex101.com - regex
 - https://useconsensus.io/ - search for answer in subreddits and comments
 - https://readme.so/editor - create README
 - https://www.oldmapsonline.org/en/history/people#position=5.9288/56.75/63.28&year=1575 - interactive map with history
